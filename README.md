@@ -26,14 +26,6 @@ This folder contains the installer package for Elite Dangerous Inara Overlay.
 - ✅ Registry integration and file associations
 - ✅ Clean uninstaller
 
-### 🔧 Manual Build
-
-If you prefer to build from source:
-```powershell
-# From project root
-.\build_installer.ps1
-```
-
 ### 📋 Version Information
 
 - **Version**: 1.0.0
@@ -44,10 +36,4 @@ If you prefer to build from source:
 ### 🆘 Support
 
 For issues or questions:
-- Check the main [README](../README.md) for detailed documentation
-- Review the [Contributing Guide](../Documentation/CONTRIBUTING.md)
 - Open an issue in the repository
-
----
-
-**Note**: This installer is automatically generated from the build system. Do not edit files in this folder manually.
